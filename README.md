@@ -19,5 +19,7 @@ contains the various picons that I have created for http://kinzler.com/picons/ft
 ![sage](sage.com.gif)
 ![stackoverflow](stackoverflow.com.gif)
 ![youtube](youtube.com.gif)
+![ycombinator](ycombinator.com.gif)
+![npr](npr.org.gif)
 
 [How to submit](http://kinzler.com/picons/ftp/faq.html#submit)

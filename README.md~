@@ -1,6 +1,7 @@
 # picons
 contains the various picons that I have created for http://kinzler.com/picons/ftp/
 
+![ll](ll.mit.edu.gif)
 ![disqus](disqus.gif)
 ![ebay](ebay.com.gif)
 ![etsy](etsy.gif)

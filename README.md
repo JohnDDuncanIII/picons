@@ -21,5 +21,7 @@ contains the various picons that I have created for http://kinzler.com/picons/ft
 ![youtube](youtube.com.gif)
 ![ycombinator](ycombinator.com.gif)
 ![npr](npr.org.gif)
+![weta](weta.org.gif)
+![firefox](firefox.com.gif)
 
 [How to submit](http://kinzler.com/picons/ftp/faq.html#submit)

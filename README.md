@@ -10,7 +10,7 @@ contains the various picons that I have created for http://kinzler.com/picons/ft
 ![stackoverflow](stackoverflow.com.gif)
 ![youtube](youtube.com.gif)
 ![paypal](paypal.com.gif)
-![gettysburg](gettysburg.com.gif)
+![gettysburg](gettysburg.edu.gif)
 
 ![goodreads](goodreads.com.gif)
 ![etsy](etsy.gif)
